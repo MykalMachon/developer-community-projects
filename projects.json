@@ -405,5 +405,15 @@
 		"description": "An integration for using 1Password as a secret backend with vals",
 		"createdAt": "2024-06-04",
 		"tags": ["vals", "1password sdks", "secret reference", "service accounts"]
+	},
+	{
+		"category": "repo",
+		"id": "mykalmachon-op-run-wsl",
+		"title": "oprun.sh",
+		"author": "Mykal Machon (mykalmachon)",
+		"url": "https://github.com/MykalMachon/oprun.sh",
+		"description": "The 1Password CLI's `op run` utility re-implemented as a bash script using `op inject` to add Windows Subsystem for Linux support.",
+		"createdAt": "2025-07-30",
+		"tags": ["cli", "windows", "wsl"]
 	}
 ]
